@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is your return policy?",
+      "answer": "You can return items within 30 days for a full refund."
+    },
+    {
+      "question": "How do I track my order?",
+      "answer": "You can track your order using the tracking link sent to your email after purchase."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes, we ship to over 50 countries worldwide."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit cards, debit cards, PayPal, and UPI."
+    },
+    {
+      "question": "How can I reset my password?",
+      "answer": "Click on 'Forgot Password' at the login screen and follow the instructions."
+    },
+    {
+      "question": "Can I change my delivery address after placing an order?",
+      "answer": "You can change the address within 2 hours of placing the order by contacting support."
+    },
+    {
+      "question": "Is cash on delivery available?",
+      "answer": "Yes, we offer cash on delivery for orders below ₹5000."
+    },
+    {
+      "question": "How do I cancel my order?",
+      "answer": "Go to 'My Orders' and click on 'Cancel Order' if it's not yet shipped."
+    },
+    {
+      "question": "When will I receive my refund?",
+      "answer": "Refunds are processed within 5-7 business days."
+    },
+    {
+      "question": "Do you have a physical store?",
+      "answer": "No, we operate exclusively online at the moment."
+    },
+    {
+      "question": "How do I contact customer support?",
+      "answer": "You can reach us via the contact form or email us at support@example.com."
+    },
+    {
+      "question": "Are your products covered by warranty?",
+      "answer": "Yes, most electronics have a 1-year warranty. Please check individual product pages."
+    },
+    {
+      "question": "How do I apply a promo code?",
+      "answer": "You can apply the promo code at the checkout page before payment."
+    },
+    {
+      "question": "Do you offer gift cards?",
+      "answer": "Yes, we offer digital gift cards ranging from ₹500 to ₹5000."
+    },
+    {
+      "question": "Can I get an invoice for my order?",
+      "answer": "Yes, a digital invoice is sent to your registered email after purchase."
+    },
+    {
+      "question": "What if I receive a damaged item?",
+      "answer": "Please contact support within 48 hours and attach photos for a replacement or refund."
+    },
+    {
+      "question": "Can I place a bulk order?",
+      "answer": "Yes, please email us at sales@example.com for bulk inquiries."
+    },
+    {
+      "question": "Where are you based?",
+      "answer": "We are headquartered in Bangalore, India."
+    },
+    {
+      "question": "What is your customer support timing?",
+      "answer": "Our support team is available from 9 AM to 6 PM IST, Monday to Saturday."
+    },
+    {
+      "question": "Do you support environmentally friendly packaging?",
+      "answer": "Yes, we use recycled and biodegradable packaging materials."
+    },
+    {
+      "question": "Can I exchange a product instead of returning it?",
+      "answer": "Yes, we offer free exchanges within 15 days of delivery."
+    },
+    {
+      "question": "Are there any membership or loyalty programs?",
+      "answer": "Yes, we have a loyalty program called 'ShopPlus' offering discounts and early access."
+    },
+    {
+      "question": "Do you offer EMI options?",
+      "answer": "Yes, EMI options are available on purchases above ₹3000 via credit card."
+    },
+    {
+      "question": "How do I update my account information?",
+      "answer": "Go to your profile and click on 'Edit Profile' to update details."
+    },
+    {
+      "question": "Do you have a mobile app?",
+      "answer": "Yes, our mobile app is available on both Android and iOS platforms."
+    }
+  ]
+  
